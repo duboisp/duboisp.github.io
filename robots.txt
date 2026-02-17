@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /
+
+Sitemap: https://duboisp.github.io/sitemap.xml
